@@ -2,7 +2,7 @@
     "name": "PWA Offline Login",
     "short_name": "LoginPWA",
     "description": "Inicio de sesión offline para 4 usuarios",
-    "start_url": "/index.html",
+    "start_url": "/PWA",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#007bff",
